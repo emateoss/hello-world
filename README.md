@@ -1,0 +1,2 @@
+# hello-world
+Smoke test
